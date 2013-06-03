@@ -1,0 +1,157 @@
+.claim{
+	text-shadow:0 2px 5px RGBA(11,46,87,0.65);
+}
+.title_left{
+	text-align:left;
+	font-size:25px;
+	position:absolute;
+	width:365px;
+	top:213px;
+	left:43px;
+	border-bottom:1px solid #636363;
+	padding-bottom:15px;
+}
+
+.percent{
+	font-size:60px;
+	left:43px;
+	top:340px;
+	position:absolute;
+	z-index:10;
+	display:block;
+}
+
+.grey{
+	font-size:20px;
+}
+
+.percent_txt{
+	left:188px;
+	top:350px;
+	position:absolute;
+	width:220px;
+	font-size:15px;
+}
+
+
+.title_chart{
+	font-size: 13px;
+	text-align: center;
+	-webkit-transform: rotate(-90deg);
+	top: 298px;
+	position: absolute;
+	left: 368px;
+}
+
+.chart{
+	background:url(../images/bg_chart.png) no-repeat;
+	width:311px;
+	height:267px;
+	position:absolute;
+	left:477px;
+	top:182px;
+	background-size: 311px 267px;
+}
+
+.shadow{
+	background:url(../images/shadow.png) no-repeat;
+	width:185px;
+	height:24px;
+	position:absolute;
+	left:549px;
+	top:444px;
+	background-size: 185px 24px;
+}
+
+.chart_colum{
+	background: url(../images/chart_colum.png) no-repeat;
+	width: 198px;
+	height: 262px;
+	position: absolute;
+	left: 546px;
+	top: 182px;
+	display: none;
+	background-size: 198px 262px;
+}
+
+.number{
+	background: url(../images/number_colum.png) no-repeat;
+	width: 146px;
+	height: 89px;
+	position: absolute;
+	left: 570px;
+	top: 195px;
+	display: none;
+	background-size: 146px 89px;
+}
+
+.name_colum{
+	position: absolute;
+	font-size: 13px;
+	left: 544px;
+	top: 440px;
+}
+
+.name_colum ul li{
+	list-style:none;
+	display:inline;
+	padding-right:85px;
+}
+
+.text_bot_chart{
+	position: absolute;
+	font-size: 13px;
+	width: 263px;
+	left: 758px;
+	top: 203px;
+}
+
+.text_bot_chart ul li{
+	list-style:none;
+	padding-bottom:17px;
+}
+
+.black{
+	color:#474747;
+}
+.blue{
+	color:#216bbe;
+}
+
+.right_colum{
+	position: absolute;
+	font-size: 13px;
+	width: 263px;
+	left: 758px;
+	top: 297px;
+}
+
+.right_colum ul li{
+	list-style:none;
+	padding-bottom:17px;
+}
+
+.text_month{
+	position: absolute;
+	left: 483px;
+	top: 493px;
+	color: #797979;
+	font-size: 15px;
+}
+
+.text_detail{
+	position: absolute;
+	left: 525px;
+	top: 526px;
+	color: #797979;
+	font-size: 13px;
+}
+
+.text_detail ul li{
+	list-style:none;
+	padding-bottom:7px;
+}
+	
+.ref_1{
+	padding-left:0px !important;
+}

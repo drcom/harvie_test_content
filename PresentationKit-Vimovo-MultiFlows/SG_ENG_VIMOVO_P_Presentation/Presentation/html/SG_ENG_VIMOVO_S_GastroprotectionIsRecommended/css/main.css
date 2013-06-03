@@ -1,0 +1,24 @@
+.table,.title,.title2,.tb_tit1,.tb_tit2,.tb_tit3 {position:absolute;}
+
+.title {font-size:18px; text-align:center; top:160px; width:1024px;}
+.title2 {font-size:16px; left:210px; top:625px; }
+
+.table {background:url(../images/table_bg.png) no-repeat; width:578px; height:349px; left:220px; top:225px;background-size: 578px 349px;}
+
+.tb_tit1 {font-size:14px; left:20px; top:12px;}
+.tb_tit2 {font-size:14px; left:200px; top:12px;}
+.tb_tit3 {font-size:14px; left:400px; top:12px; text-align:center;}
+
+.row1_text1,.row1_text2,.row1_text3 {position:absolute;}
+.row1_text1 {font-size:14px; left:20px; top:110px;}
+.row1_text2 {font-size:14px; left:200px; top:115px;}
+.row1_text3 {font-size:14px; left:400px; top:70px;}
+
+.row2_text1,.row2_text2,.row2_text3,.row2_text4 {position:absolute;}
+.row2_text1 {font-size:14px; left:20px; top:250px;}
+.row2_text2 {font-size:14px; left:200px; top:215px;}
+.row2_text3 {font-size:14px; left:400px; top:205px; line-height:14px;}
+
+.legend_text {position:absolute; font-size:12px; left:10px; top:360px; width:710px;}
+
+.white {color:#FFF;}

@@ -1,0 +1,108 @@
+ .flyer {
+    position: absolute;
+}
+/* 
+. {
+    font-size: 3px;
+    left: px;
+    top: px;
+    width: px;
+    height: px;
+    background: url(../images/.png) no-repeat;
+}
+
+ */
+ 
+  sup {
+    font-size: 50%;
+ }
+ 
+ .vivimo_effect1 {
+    font-size: 25px;
+    left: 32px;
+    top: 212px; 
+}
+
+ .vivimo_effect2 div {
+    position: absolute;
+}
+
+ .vivimo_line {
+    width: 385px;
+    height: 1px;
+    background: #636363;
+    left: 32px;
+    top: 341px;
+}
+
+     #eighttwopercent {
+        font-size: 67px;
+        left: 32px;
+        top: 373px;     
+    }
+    
+     #vivimo_risk {
+        left: 188px;
+        top: 385px; 
+        width: 235px;
+    }
+        #vivimo_risk span:nth-child(1) {
+            font: 20px Helv_Round_Bold;
+        }
+        #vivimo_risk span:nth-child(4) {
+            font: 15px Helv_Roman;
+        }
+
+ .graph {
+    left: 517px;
+    top: 230px;
+    width: 467px;
+    height: 263px;
+    background: url(../images/graph.png) no-repeat;
+	background-size: 467px 263px;
+}
+
+    
+     .graph_month div {
+        position: absolute;
+        top: 270px;
+        font: 13px Helvetica_Bold;
+    }
+         .graph_month div:nth-child(1){
+            left: 45px;
+        }
+         .graph_month div:nth-child(2){
+            left: 218px;
+        }
+         .graph_month div:nth-child(3){
+            left: 384px;
+        }
+       
+     .graph_legend div {
+        position: absolute;
+        line-height: 15px;
+    }
+    
+         .graph_legend1 {
+            font-size: 13px;
+            left: 542px;
+            top: 558px; 
+        }    
+         .graph_legend2 {
+            font-size: 13px;
+            left: 782px;
+            top: 558px; 
+        }
+        
+     .graph_vertical {
+        -webkit-transform: rotate(-90deg);
+        font-size: 11px;
+        text-align: center;
+        position: absolute;
+        left: 311px;
+        top: 343px;
+    }
+	
+	 .scroll_info .ref {
+		padding-left: 0px;
+	}

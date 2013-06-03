@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Supported Orientations</key>
+	<dict>
+		<key>Landscape Left</key>
+		<true/>
+		<key>Landscape Right</key>
+		<true/>
+		<key>Portrait</key>
+		<false/>
+		<key>Portrait Upside Down</key>
+		<false/>
+	</dict>
+	<key>Menu</key>
+	<dict>
+		<key>AssetID</key>
+		<string>Revised_Menu</string>
+	</dict>
+	<key>ActiveCall</key>
+	<array>
+		<string>Summary</string>
+		<string>Guideline</string>
+	</array>
+	<key>AlternateCalls</key>
+	<dict>
+		<key>FlowA</key>
+		<array>
+			<string>Short PI</string>
+			<string>FAQs</string>
+		</array>
+		<key>FlowB</key>
+		<array>
+			<string>Short PI</string>
+			<string>Similar pain relief</string>
+		</array>
+	</dict>
+	<key>Slides</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Summary</string>
+			<key>URL</key>
+			<string>SG_ENG_VIMOVO_S_Summary/index.html</string>
+			<key>Landscape Preview</key>
+			<string>SG_ENG_VIMOVO_S_Summary/Preview.jpg</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Short PI</string>
+			<key>URL</key>
+			<string>SG_ENG_VIMOVO_S_ShortPI/index.html</string>
+			<key>Landscape Preview</key>
+			<string>SG_ENG_VIMOVO_S_ShortPI/Preview.jpg</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>FAQs</string>
+			<key>URL</key>
+			<string>SG_ENG_VIMOVO_S_FAQs/index.html</string>
+			<key>Landscape Preview</key>
+			<string>SG_ENG_VIMOVO_S_FAQs/Preview.jpg</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Guideline</string>
+			<key>URL</key>
+			<string>SG_ENG_VIMOVO_S_GastroprotectionIsRecommended/index.html</string>
+			<key>Landscape Preview</key>
+			<string>SG_ENG_VIMOVO_S_GastroprotectionIsRecommended/Preview.jpg</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Similar pain relief</string>
+			<key>URL</key>
+			<string>SG_ENG_VIMOVO_S_AchieveSimilarPainRelief/index.html</string>
+			<key>Landscape Preview</key>
+			<string>SG_ENG_VIMOVO_S_AchieveSimilarPainRelief/Preview.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,4 @@
+$(document).bind('menuReady', function () {
+	
+	
+});
