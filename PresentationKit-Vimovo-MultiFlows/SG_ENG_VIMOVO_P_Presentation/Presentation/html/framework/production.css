@@ -1,9 +1,0 @@
-/******************************************************
- * auto-generated at Thu, 04 Apr 2013 04:06:36 GMT
- * GIT infos:
- *  - branch: refs/heads/refactor-framework-2.1
- *  - user:   an.nguyen <annguyen.drca@gmail.com>
- *  - date:   Mon, 19 Nov 2012 04:22:40 GMT
- *  - hash:   5ea66ebd63bc72d6703960c1b0089df777158515
- *****************************************************/
-body{background-color:#fff;margin:0;padding:0}#navBirdgeContainer{background-color:transparent}#previewContainer ul{display:none}#previewContainer .startSlide{display:block}#previewholder{width:1024px;height:768px;position:absolute;-webkit-backface-visibility:hidden}.preview{position:absolute}#previewholder .imgSlideNext{width:1024px;height:768px;position:absolute;-webkit-transform:translate3d(1024px,0,0)}#previewholder .imgSlidePre{width:1024px;height:768px;position:absolute;-webkit-transform:translate3d(-1024px,0,0)}

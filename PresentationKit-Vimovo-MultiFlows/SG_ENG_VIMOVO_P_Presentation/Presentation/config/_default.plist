@@ -14,70 +14,68 @@
 		<false/>
 	</dict>
 	<key>Menu</key>
-	<dict>
-		<key>AssetID</key>
-		<string>Revised_Menu</string>
-	</dict>
+	<dict/>
 	<key>ActiveCall</key>
 	<array>
-		<string>Summary</string>
-		<string>Guideline</string>
+		<string>Main Flow - Page1</string>
+		<string>Shared Slides - Slide 1</string>
+	</array>
+	<key>Slides</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Main Flow - Page1</string>
+			<key>URL</key>
+			<string>MainFlow/Page1/index.html</string>
+			<key>Landscape Preview</key>
+			<string>MainFlow/Page1/Preview.jpg</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Flow A - Page 1</string>
+			<key>URL</key>
+			<string>FlowA/FlowA_Page1/index.html</string>
+			<key>Landscape Preview</key>
+			<string>FlowA/FlowA_Page1/Preview.jpg</string>
+		</dict>
+		<dict>
+			<key>Landscape Preview</key>
+			<string>FlowA/FlowA_Page2/Preview.jpg</string>
+			<key>Title</key>
+			<string>Flow A - Page 2</string>
+			<key>URL</key>
+			<string>FlowA/FlowA_Page2/index.html</string>
+		</dict>
+		<dict>
+			<key>Landscape Preview</key>
+			<string>FlowB/FlowB_Page1/Preview.jpg</string>
+			<key>Title</key>
+			<string>Flow B - Page 1</string>
+			<key>URL</key>
+			<string>FlowB/FlowB_Page1/index.html</string>
+		</dict>
+		<dict>
+			<key>Landscape Preview</key>
+			<string>SharedSlides/SharedSlide1/Preview.jpg</string>
+			<key>Title</key>
+			<string>Shared Slides - Slide 1</string>
+			<key>URL</key>
+			<string>SharedSlides/SharedSlide1/index.html</string>
+		</dict>
 	</array>
 	<key>AlternateCalls</key>
 	<dict>
 		<key>FlowA</key>
 		<array>
-			<string>Short PI</string>
-			<string>FAQs</string>
+			<string>Flow A - Page 1</string>
+			<string>Flow A - Page 2</string>
+			<string>Shared Slides - Slide 1</string>
 		</array>
 		<key>FlowB</key>
 		<array>
-			<string>Short PI</string>
-			<string>Similar pain relief</string>
+			<string>Flow B - Page 1</string>
+			<string>Shared Slides - Slide 1</string>
 		</array>
 	</dict>
-	<key>Slides</key>
-	<array>
-		<dict>
-			<key>Title</key>
-			<string>Summary</string>
-			<key>URL</key>
-			<string>SG_ENG_VIMOVO_S_Summary/index.html</string>
-			<key>Landscape Preview</key>
-			<string>SG_ENG_VIMOVO_S_Summary/Preview.jpg</string>
-		</dict>
-		<dict>
-			<key>Title</key>
-			<string>Short PI</string>
-			<key>URL</key>
-			<string>SG_ENG_VIMOVO_S_ShortPI/index.html</string>
-			<key>Landscape Preview</key>
-			<string>SG_ENG_VIMOVO_S_ShortPI/Preview.jpg</string>
-		</dict>
-		<dict>
-			<key>Title</key>
-			<string>FAQs</string>
-			<key>URL</key>
-			<string>SG_ENG_VIMOVO_S_FAQs/index.html</string>
-			<key>Landscape Preview</key>
-			<string>SG_ENG_VIMOVO_S_FAQs/Preview.jpg</string>
-		</dict>
-		<dict>
-			<key>Title</key>
-			<string>Guideline</string>
-			<key>URL</key>
-			<string>SG_ENG_VIMOVO_S_GastroprotectionIsRecommended/index.html</string>
-			<key>Landscape Preview</key>
-			<string>SG_ENG_VIMOVO_S_GastroprotectionIsRecommended/Preview.jpg</string>
-		</dict>
-		<dict>
-			<key>Title</key>
-			<string>Similar pain relief</string>
-			<key>URL</key>
-			<string>SG_ENG_VIMOVO_S_AchieveSimilarPainRelief/index.html</string>
-			<key>Landscape Preview</key>
-			<string>SG_ENG_VIMOVO_S_AchieveSimilarPainRelief/Preview.jpg</string>
-		</dict>
-	</array>
 </dict>
 </plist>
